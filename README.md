@@ -8,8 +8,9 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 ### References:
-Google singup with firestore
+1. Google singup with firestore
 https://blog.codemagic.io/firebase-authentication-google-sign-in-using-flutter/
+2. Fire base concole : https://console.firebase.google.com/
 
 
 
