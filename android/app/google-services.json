@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "276935206940",
+    "project_id": "matri-111aa",
+    "storage_bucket": "matri-111aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276935206940:android:208e5107e26ffa427b17d9",
+        "android_client_info": {
+          "package_name": "com.example.matri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276935206940-vuou2b4nvatout4tg35fe25ioqieqaai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.matri",
+            "certificate_hash": "fc40d460451e388328cfbe6651f7e30b66799745"
+          }
+        },
+        {
+          "client_id": "276935206940-39rhuhfvmr7n2il9dj3e3h7j8unbk41d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAggR60-MSO7tnKgzAZVqi8XTqAl2sgmJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276935206940-39rhuhfvmr7n2il9dj3e3h7j8unbk41d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
